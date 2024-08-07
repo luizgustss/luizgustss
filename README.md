@@ -4,7 +4,6 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=luizgustss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luizgustss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -20,12 +19,6 @@
 ###
 
 <p align="center">I currently work in IT support, studying Systems Analysis and Development as well as IT Technician. I am learning programming to advance in the field and secure my first job.</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://49.media.tumblr.com/7716ef547264521e476a067b1c8d2717/tumblr_mevr65Tt1i1s0odt8o1_500.gif"  />
-</div>
 
 ###
 
